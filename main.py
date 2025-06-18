@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import tcod
 
-import game_map
 from engine import Engine
 from entity import Entity
 from game_map import GameMap
