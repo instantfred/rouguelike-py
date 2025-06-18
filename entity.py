@@ -14,5 +14,5 @@ class Entity:
 
     def move(self, dx: int, dy: int) -> None:
         # move entity by a given amount
-        self.x = dx
-        self.y = dy
+        self.x += dx
+        self.y += dy
