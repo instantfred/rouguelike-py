@@ -18,6 +18,7 @@ This project is a hands-on implementation of a classic roguelike game. It's buil
 
 A typical view of the game running in a terminal:
 
+![Roguelike tutorial](https://github.com/user-attachments/assets/5e28a9e5-5221-4676-9f9f-baa0e50ca507)
 
 
 ## Getting Started
